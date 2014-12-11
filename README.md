@@ -1,8 +1,6 @@
 TogetherJS - Surprisingly easy collaboration
 ============================================
 
-What is TogetherJS?
------------------
 
 TogetherJS is a service for your website that makes it surprisingly easy to collaborate in real-time.
 
